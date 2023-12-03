@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Futebol Dos Amigos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="emailCanNotBeBlank">Email cannot be blank</string>
+    <string name="thatIsNotAValidEmail">That is not a valid e-mail</string>
+    <string name="phoneCanNotBeBlank">Phone number cannot be blank</string>
+    <string name="dateCanNotBeBlank">Date cannot be blank</string>
+    <string name="invalidDateFormat">Invalid date format</string>
+    <string name="phoneNumberShouldBeContentJustDigit">Phone number cannot be blank</string>
+    <string name="numberCannotContainLettersOrNumbers">Number cannot contains letters os symbols</string>
+    <string name="textCannotBeBlank">Text cannot be blank</string>
+    <string name="textCannotBeEmpty">Text cannot be empty</string>
+    <string name="fetchingDataFromServer">Fetching data from server…</string>
+    <string name="retry">Retry</string>
+</resources>
